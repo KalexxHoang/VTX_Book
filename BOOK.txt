@@ -1,0 +1,37 @@
+1.(Astrophysics and Space Science Library 73) James R. Wertz (auth.), James R. Wertz (eds.) - Spacecraft Attitude Determination and Control-Springer Netherlands (1978)
+
+2.(Cambridge Aerospace Series) Marcel J. Sidi - Spacecraft Dynamics and Control_ A Practical Engineering Approach-Cambridge University Press (1997)
+
+3.(Space Technology Library 36) George Sebestyen,Steve Fujikawa,Nicholas Galassi,Alex Chuchra (auth.) -  Low Earth Orbit Satellite Design-Springer International Publishing (2018)
+
+4.(Springer Aerospace Technology) Jens Eickhoff (eds.) - The FLP Microsatellite Platform_ Flight Operations Manual-Springer International Publishing (2016)
+
+5.Attitude_and_Position_Estimation_from_Vector_Observation
+
+6.Ebook Lý thuyết điều khiển tuyến tính - Nguyễn Doãn Phước
+
+7.Fundamentals of Spacecraft Attitude Determination and Control
+
+8.Handbook of Space Technology (Aerospace Series (PEP))  2009
+
+9.IET-Control-Theory-Appl-2021-Liu-Nonlinear-adaptive-tracking-control-for-quadrotor-aerial-robots-under-uncertain
+
+10.Kalman Filter and PID
+
+11.Kalman Filter for NanoSatellite
+
+12.Ludka_kniha
+
+13.Lý thuyết điều khiển tuyến tính
+
+14.Oliver Montenbruck, Eberhard Gill - Satellite Orbits_ Models, Methods and Applications-Springer (2005)
+
+15.orbitRaising
+
+16.SingularityPaper2
+
+17.Space Mission Analysis and Design 3rd Edition (2005) ( PDFDrive )
+
+18.Tuyến tính hóa quanh điểm làm việc
+
+19.Yang, Yaguang - Spacecraft modeling, attitude determination, and control_ quaternion-based approach-CRC Press (2019)
