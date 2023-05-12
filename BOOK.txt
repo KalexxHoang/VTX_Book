@@ -35,3 +35,5 @@
 18.Tuyến tính hóa quanh điểm làm việc
 
 19.Yang, Yaguang - Spacecraft modeling, attitude determination, and control_ quaternion-based approach-CRC Press (2019)
+
+20.(Aerospace Engineering) Howard Curtis - Orbital Mechanics_ For Engineering Students (2005)(1st ed.)(en)(704s)-Butterworth-Heinemann (2005)
